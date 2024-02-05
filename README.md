@@ -30,7 +30,7 @@
 
  ### 🤝🏻 &nbsp;Сontact with me
   
-<a href="https://t.me/Salto_Gazmanova"><img src="https://img.shields.io/badge/-den4ik__qq-05122A?style=for-the-badge&logo=Telegram"/></a>
+<a href="https://t.me/Salto_Gazmanova"><img src="https://img.shields.io/badge/-Salto_Gazmanova-05122A?style=for-the-badge&logo=Telegram"/></a>
 
 <!--
 **YaGaskoin/YaGaskoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
