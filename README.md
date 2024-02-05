@@ -7,7 +7,7 @@
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&labelColor=white)\
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)\
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C&labelColor=white)\
 ![StoryBook](https://img.shields.io/badge/-StoryBook-05122A?style=flat&logo=StoryBook&labelColor=white)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=white)\
