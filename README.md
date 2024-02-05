@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Danila
 <h2> I'm a Back-end develepor from Russia, Vologda
 
-<h2>Skills</h2>
+<h2>Tech Skills</h2>
  <div>
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4783nasp4qwtf22wk2vx0ikgwh298xagjirnkh1jt4&rid=giphy.gif&ct=g" align="right"/>
 
