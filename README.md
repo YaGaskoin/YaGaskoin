@@ -21,10 +21,8 @@
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&labelColor=white)\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&labelColor=white&logoColor=black)\
-![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=white)\
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=007ACC&labelColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)\
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)\
   </div>
   
  ### &nbsp;
