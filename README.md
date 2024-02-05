@@ -9,7 +9,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)\
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)\
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)\
-![StoryBook](https://img.shields.io/badge/-StoryBook-05122A?style=flat&logo=StoryBook&labelColor=white)\
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=white)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&labelColor=white)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&labelColor=white)\
