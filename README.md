@@ -6,7 +6,7 @@
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4783nasp4qwtf22wk2vx0ikgwh298xagjirnkh1jt4&rid=giphy.gif&ct=g" align="right"/>
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)\
-![JavaScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&labelColor=white)\
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&labelColor=white)\
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=563D7C&labelColor=white)\
 ![StoryBook](https://img.shields.io/badge/-StoryBook-05122A?style=flat&logo=StoryBook&labelColor=white)\
